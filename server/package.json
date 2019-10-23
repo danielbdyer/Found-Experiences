@@ -22,7 +22,7 @@
     "dotenv": "^5.0.1",
     "express": "5.0.0-alpha.6",
     "jsonwebtoken": "^8.1.0",
-    "mongoose": "^5.0.10",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "npm": "^5.7.1"
   }
